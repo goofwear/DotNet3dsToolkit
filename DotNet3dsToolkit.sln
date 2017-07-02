@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26206.0
+VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DotNet3dsToolkit", "DotNet3dsToolkit\DotNet3dsToolkit.vbproj", "{2FB4AA55-C53E-4092-A40D-E797D6084584}"
 EndProject
@@ -9,6 +9,9 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ToolkitConsole", "ToolkitCo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A06ABB2-F37F-4C31-9895-B6DACDFA7F6F}"
 	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		LICENSE = LICENSE
 		README.MD = README.MD
 	EndProjectSection
 EndProject
